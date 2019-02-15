@@ -1,4 +1,4 @@
-# J.D.Power汽车可靠性研究(2006-2019)
+# [J.D.Power](https://www.jdpower.com/)汽车可靠性排行榜(2006-2019)
 
 <!--ts-->
    * [2019](#2019)
@@ -19,7 +19,7 @@
 
 
 ## 2019
-![](https://github.com/qyxxjd/VehicleTopic/blob/master/VehicleDependabilityStudy/data/2019.jpg)    
+![](https://github.com/qyxxjd/VehicleTopic/blob/master/VehicleDependabilityStudy/data/2019.png)    
 
 ## 2018
 ![](https://github.com/qyxxjd/VehicleTopic/blob/master/VehicleDependabilityStudy/data/2018.jpg)    
